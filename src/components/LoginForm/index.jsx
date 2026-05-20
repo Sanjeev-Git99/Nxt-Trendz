@@ -30,7 +30,7 @@ const LoginForm = () => {
         className="password-input-field"
         value={password}
         onChange={onChangePassword}
-        placeholder="Password"
+        placeholder="Password : rahul@2021"
       />
     </>
   )
@@ -46,7 +46,7 @@ const LoginForm = () => {
         className="username-input-field"
         value={username}
         onChange={onChangeUsername}
-        placeholder="Username"
+        placeholder="Username : rahul"
       />
     </>
   )

@@ -1,6 +1,7 @@
 # Nxt Trendz - E-Commerce Application
 
 A modern e-commerce web application built with React, featuring a full shopping cart experience with product browsing, cart management, and checkout functionality.
+Link: https://nxt-trendz-nine-beta.vercel.app/login 
 
 ## Features
 

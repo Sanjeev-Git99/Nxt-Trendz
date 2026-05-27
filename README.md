@@ -7,11 +7,9 @@ A modern e-commerce web application built with React, featuring a full shopping 
 
 
 
-<h3>Live Demo</h3>
+## Live Demo
 
-<a href="https://nxt-trendz-nine-beta.vercel.app/" target="_blank">
-  🚀 View Live Project
-</a>
+[View Live Project](https://nxt-trendz-nine-beta.vercel.app/)
 
 ## Features
 
